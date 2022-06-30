@@ -1,4 +1,4 @@
-package com.example.simplejpa.data;
+package com.example.simplejpa;
 
 import com.openpojo.reflection.PojoClass;
 import com.openpojo.reflection.filters.FilterPackageInfo;
